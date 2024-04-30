@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Zaheer.
+- 👋 Hi,
 - 👀 I’m interested in "Data Science", "Data Analytics", "Business Intelligence", "Python","SQL", "VBA Macros" & "SPSS", "Power BI".
-- 🌱 I’m currently learning to keep learning...
-- 💞️ I’m looking to collaborate on projects which involve Python, SQL, and any analysis.
+- 🌱 currently a data nerd, who loves to exploer new tools.
+- 💞️ looking to collaborate on projects which involve Python, SQL, and data analysis,financial analysis,statistical analysis.
 - 📫 How to reach me ...
 
 <!---
